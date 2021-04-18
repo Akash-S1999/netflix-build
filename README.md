@@ -12,7 +12,6 @@
 </p>
 
 
-Demo link 😛
 <a href="https://netflix-clone-50d24.web.app/">Demo link 😛 </a>
 
 
