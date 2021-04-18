@@ -12,8 +12,8 @@
 </p>
 
 
-# Here is the Demo link 😛
-<a href="https://netflix-clone-50d24.web.app/">
+Demo link 😛
+<a href="https://netflix-clone-50d24.web.app/">Demo link 😛 </a>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
